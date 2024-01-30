@@ -1,2 +1,2 @@
 # XMail
-Mail Server
+Mail Server Web Program
